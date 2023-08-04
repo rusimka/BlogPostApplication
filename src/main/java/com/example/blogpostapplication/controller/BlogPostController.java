@@ -5,7 +5,6 @@ import com.example.blogpostapplication.model.Tag;
 import com.example.blogpostapplication.model.dto.SimplifiedBlogPostDTO;
 import com.example.blogpostapplication.service.BlogPostService;
 import com.example.blogpostapplication.service.TagService;
-import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
